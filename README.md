@@ -1,6 +1,5 @@
 # BetaButton
 A button, just a beta button
-# BetaButton
 
 ## Current Versions (Beta)
 
