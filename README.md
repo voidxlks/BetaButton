@@ -11,4 +11,4 @@ A button, just a beta button
 
 ---
 
-Click the button and become a beta 😎
+Click the button and become a beta
